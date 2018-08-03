@@ -1,1 +1,0 @@
-This is Suka's first git progect!
